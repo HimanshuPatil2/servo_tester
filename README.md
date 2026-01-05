@@ -8,6 +8,8 @@ This repository contains **standalone servo tester programs** written in both:
 
 Designed to help you **verify hardware**, **debug wiring issues**, and **calibrate servos safely** before integrating them into larger systems.
 
+<img width="1600" height="850" alt="image" src="images/servo_tester_gui" />
+
 ---
 
 ## 🎯 Why This Repo Exists
